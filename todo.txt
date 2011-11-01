@@ -1,3 +1,0 @@
-TODO:
-Skriva en riktig readme
-lägga upp pluginet på wordpress.org
