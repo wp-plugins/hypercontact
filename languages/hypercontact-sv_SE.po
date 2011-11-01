@@ -1,0 +1,405 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hypercontact\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-31 23:38+0100\n"
+"PO-Revision-Date: 2011-11-01 08:28+0100\n"
+"Last-Translator: Johan Ahlbäck <johan.ahlback@hypernode.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Bookmarks: -1,-1,-1,-1,48,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: \n"
+
+#: adminpage.php:9
+msgid "Add custom fields to users"
+msgstr "Lägg till egna fält för användare"
+
+#: adminpage.php:10
+msgid "To add a new field use the form"
+msgstr "Använd formuläret för att lägga till ett fält"
+
+#: adminpage.php:11
+msgid "field: the field type. skype, facebook or anything you want (small letters only)"
+msgstr "fält: fält typen. skype, facebokk, eller vad du vill (bara små bokstäver) "
+
+#: adminpage.php:11
+msgid "Name: The name of the field displayed in theme"
+msgstr "Namn: Namnet för fältet som ska visas i temat"
+
+#: adminpage.php:12
+msgid "Use the form to allow fields to be used in widget"
+msgstr "Använd formuläret för att tillåta att fält visas i widgeten"
+
+#: adminpage.php:13
+msgid "See help tab or plugin page for more info"
+msgstr "Se hjälp fliken eller pluginsidan för mer info"
+
+#: adminpage.php:23
+msgid "Fields"
+msgstr "Fält"
+
+#: adminpage.php:23
+msgid "CSS"
+msgstr "CSS"
+
+#: adminpage.php:23
+msgid "Add script"
+msgstr "Lägg till skript"
+
+#: adminpage.php:23
+msgid "Help"
+msgstr "Hjälp"
+
+#: adminpage.php:89
+#: adminpage.php:130
+#: adminpage.php:138
+msgid "Field"
+msgstr "Fält"
+
+#: adminpage.php:89
+msgid "required"
+msgstr "krävs"
+
+#: adminpage.php:98
+#: adminpage.php:131
+#: adminpage.php:139
+msgid "Name"
+msgstr "Namn"
+
+#: adminpage.php:118
+#: adminpage.php:170
+msgid "Bulk actions"
+msgstr "Massåtgärder"
+
+#: adminpage.php:119
+#: adminpage.php:171
+msgid "Delete selected"
+msgstr "Ta bort markerade"
+
+#: adminpage.php:120
+#: adminpage.php:132
+#: adminpage.php:140
+#: adminpage.php:172
+msgid "Display in widget"
+msgstr "Visa i widget"
+
+#: adminpage.php:121
+#: adminpage.php:173
+msgid "Don`t display in widget"
+msgstr "Visa inte i widget"
+
+#: adminpage.php:157
+msgid "Yes"
+msgstr "Ja"
+
+#: adminpage.php:159
+msgid "No"
+msgstr "Nej"
+
+#: adminpage.php:192
+msgid "Change css:"
+msgstr "Ändra css:"
+
+#: adminpage.php:196
+msgid "Custom css:"
+msgstr "Egen css:"
+
+#: adminpage.php:199
+msgid "Add your css here"
+msgstr "Lägg till css här"
+
+#: adminpage.php:203
+msgid "Overide the css for this plugin. These are the selectors you can use if you haven`t modified the templates files:"
+msgstr "Ändra css för pluginet. Du kan använda de här selektorerna om du inte ändrat template filerna"
+
+#: adminpage.php:204
+msgid "Widget:"
+msgstr "Widget:"
+
+#: adminpage.php:206
+msgid "Author:"
+msgstr "Författare:"
+
+#: adminpage.php:218
+msgid "Use this css?:"
+msgstr "Använda den här css?:"
+
+#: adminpage.php:242
+msgid "Add script to footer"
+msgstr "Lägg till skript i sidfoten"
+
+#: adminpage.php:246
+msgid "Scripts"
+msgstr "Skript"
+
+#: adminpage.php:253
+msgid "Here you can paste scripts that can be used with userfields."
+msgstr "Här kan du klistra in skript som kan användas med fälten"
+
+#: adminpage.php:254
+msgid "eg. skype check, facebook scripts and twitter scripts"
+msgstr "till exempel skype kontroll, facebook skript och twitter skript"
+
+#: adminpage.php:255
+msgid "You can only save this is you have the right to save html to the database."
+msgstr "Du kan bara spara om du har tillåtelse att spara html och skript."
+
+#: adminpage.php:261
+msgid "Use these scripts?"
+msgstr "Använd skripten"
+
+#: adminpage.php:279
+msgid "help"
+msgstr "hjälp"
+
+#: adminpage.php:280
+msgid "There are several ways you can use this plugin. There is theme functions, shortcodes and two widgets you can use. All these options has several arguments for you to use."
+msgstr "Det finns flera sätt du kan använda det här pluginet på. Det finns tema funktioner, kortkoder och twå widgets du kan använda. Alla dessa har flera argument."
+
+#: adminpage.php:281
+msgid "Widgets"
+msgstr "Widgets"
+
+#: adminpage.php:282
+msgid "The first widget is the simplest to use. Just drag it to a siderbar and fill in the options. Remember to allow the fields in options page first. To change the apperance of the widget copy the file"
+msgstr "Den första widgeten är den som är enklast att använda. Det är bara att dra den till din sidebar och fyll i fälten. Kom ihåg att tillåta fälten i inställningarna först. För att ändra utseendet, kopiera"
+
+#: adminpage.php:282
+msgid "to"
+msgstr "till"
+
+#: adminpage.php:282
+msgid "and change the layout."
+msgstr "och ändra utseendet"
+
+#: adminpage.php:284
+msgid "The second widget is a html widget where you can add shortcodes. More on shortcodes below"
+msgstr "Den andra widgeten är en html widget där du kan använda kortkoder. Mer om kortkoder längre ner"
+
+#: adminpage.php:285
+msgid "Shortcodes"
+msgstr "Kortkoder"
+
+#: adminpage.php:286
+msgid "In post and pages (and in HyperContact html widget) you can use shortcodes to show fields for a user. The are currently three different shortcodes:"
+msgstr "i inlägg och på sidor (och i HyperContacts html widget) kan du använda kortkoder för att visa fält för en användare. Det finns tre olika kortkoder:"
+
+#: adminpage.php:287
+msgid "is the user you want to display and field are the field (for field names look under fields tab). You can use it like this "
+msgstr "är användaren du vill visa och field är fältet (för fält kolla under fält fliken). Du kan använda det såhär"
+
+#: adminpage.php:287
+msgid "It will display the skype field for the user "
+msgstr "Det visar skype fältet för en användare"
+
+#: adminpage.php:288
+msgid "Displays a field from post/page author. VARNING use only in posts or pages"
+msgstr "Visar ett fält för inlägg/sid författaren. OBS använd bara i inlägg eller på sidor"
+
+#: adminpage.php:289
+msgid "Theme functions"
+msgstr "Tema funktioner"
+
+#: adminpage.php:290
+msgid "If you know how to edit themes and knows a little php these are the functions for you. You can add these functions to any site. One of these function does use a templatefile. Read more about it below"
+msgstr "Om du vet hur man ändrar i tema filer och kan lite php kan du använda de härfunktionerna. Du kan lägga till dem i vilken fil som hellst i ditt tema. En av de här funktionerna använder en template fil. Läs mer om den längre ner"
+
+#: adminpage.php:291
+msgid "Default"
+msgstr "Standard"
+
+#: adminpage.php:301
+msgid "Returns a array with object that contains the user fields"
+msgstr "Returnerar en array med objekt som innehåller användarfälten"
+
+#: adminpage.php:303
+msgid "Default $args is same as above."
+msgstr "Standard $args är samma som ovan"
+
+#: adminpage.php:303
+msgid "Echoes an unordered list"
+msgstr "Skriver ut en lista"
+
+#: adminpage.php:305
+msgid "Displays a single field for a user"
+msgstr "Visar ett fält för en användare"
+
+#: adminpage.php:305
+msgid "the username of the user you want to display"
+msgstr "användarnamnet för användaren du vill visa"
+
+#: adminpage.php:305
+msgid "the field you want to display."
+msgstr "fältet du vill visa"
+
+#: adminpage.php:305
+msgid "Echoes field"
+msgstr "skriver ut fält"
+
+#: adminpage.php:307
+msgid "Get information about the author."
+msgstr "Hämta information om författaren "
+
+#: adminpage.php:307
+msgid "defaults to 32"
+msgstr "Standard är 32"
+
+#: adminpage.php:308
+msgid "Get a field for author."
+msgstr "Hämta ett fält för författaren"
+
+#: adminpage.php:309
+msgid "Display a field for the author."
+msgstr "Visa ett fält för författaren"
+
+#: adminpage.php:310
+msgid "Get fieldname for a field"
+msgstr "Hämta namnet på ett fält"
+
+#: adminpage.php:311
+msgid "Display a fieldname for a field"
+msgstr "Visa namnet på ett fält"
+
+#: adminpage.php:312
+msgid "Display author info. Uses a template file. For more info look below."
+msgstr "Visa information om författaren. Använder en template fil. För mer info se nedan"
+
+#: adminpage.php:315
+msgid "Templates and css"
+msgstr "Templates och css"
+
+#: adminpage.php:316
+msgid "To style and change apperance of the display, use the template files and the css file from this plugin"
+msgstr "För att ändra utseende kan du använda template filerna och css filen som finns med i pluginet"
+
+#: adminpage.php:316
+msgid "Copy the template folder from this plugin folder to"
+msgstr "Kopiera tamplate mappen från plugginets map till"
+
+#: adminpage.php:316
+msgid "In that folder you have a template file for author info and widget."
+msgstr "I den mappen har du template filer för författar informationen och widgeten"
+
+#: adminpage.php:316
+msgid "You also has a css file to use for styling."
+msgstr "Du har även en css fil för att ändra utseendet"
+
+#: adminpage.php:316
+msgid "Note: if you have added css in this options page the css from the file will not be displayed"
+msgstr "Notera: om du har lagt till css i inställningssidan kommer inte css från den här filen att visas"
+
+#: adminpage.php:318
+msgid "If you have any questions go to the plugin page"
+msgstr "Om du har några frågor kan du besöka pluginsidan"
+
+#: functions.php:31
+msgid "No group or user specified"
+msgstr "Ingen grupp eller användare"
+
+#: functions.php:71
+msgid "No user info could be found"
+msgstr "ingen information kunde hittas"
+
+#: hypercontact.php:28
+msgid "Email"
+msgstr "E-post"
+
+#: hypercontact.php:29
+msgid "Website"
+msgstr "Webbsida"
+
+#: hypercontact.php:30
+msgid "gravatar"
+msgstr "gravatar"
+
+#: hypercontact.php:31
+msgid "Display name"
+msgstr "Namn"
+
+#: hypercontact.php:32
+msgid "Description"
+msgstr "Information"
+
+#: hypercontact.php:115
+msgid "Settings"
+msgstr "Inställningar"
+
+#: widget.php:10
+msgid "Widget for HyperContact. Displays selected users in a widget"
+msgstr "Widget för HyperContact. Visar information för valda användare"
+
+#: widget.php:43
+msgid "Title"
+msgstr "Titel"
+
+#: widget.php:43
+msgid "The widget title"
+msgstr "Widgetens titel"
+
+#: widget.php:55
+msgid "Group"
+msgstr "grupp"
+
+#: widget.php:55
+msgid "The desired listed group"
+msgstr "Den gruppen du vill visa"
+
+#: widget.php:71
+msgid "Select users"
+msgstr "Välj användare"
+
+#: widget.php:71
+msgid "Only display the users you want"
+msgstr "Välj vilka användare som ska visas"
+
+#: widget.php:83
+msgid "Usernames"
+msgstr "Användarnamn"
+
+#: widget.php:83
+msgid "usernames in comma seperated list"
+msgstr "användarnamn i kommaseparerad lista"
+
+#: widget.php:95
+msgid "Gravatar size"
+msgstr "Gravatar storlek"
+
+#: widget.php:95
+msgid "The size for the Gravatar"
+msgstr "Storleken för gravataren"
+
+#: widget.php:149
+msgid "Textwidget for HyperContact. You can use html and shortcodes"
+msgstr "Text widget för HyperContact. Du kan använda html och kortkoder"
+
+#: widget.php:181
+msgid "Title:"
+msgstr "Titel:"
+
+#: widget.php:186
+msgid "Automatically add paragraphs"
+msgstr "Lägg till radbrytning automatiskt"
+
+#: widget.php:188
+msgid "These are the shortcodes you can use:"
+msgstr "De här är kortkoderna du kan använda"
+
+#: widget.php:190
+msgid "user and field are required"
+msgstr "user och field är obligatoriska"
+
+#: widget.php:192
+#: widget.php:194
+msgid "field are required"
+msgstr "field är obligatoriskt"
+
+#~ msgid "Single"
+#~ msgstr "Enskild användare"
+
+#~ msgid "Choose user"
+#~ msgstr "Välj användare"

@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hypercontact\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-10-31 19:38+0100\n"
+"PO-Revision-Date: 2011-10-31 19:39+0100\n"
+"Last-Translator: Johan Ahlbäck <johan.ahlback@hypernode.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: \n"
+
+#: adminpage.php:9
+msgid "Add custom fields to users"
+msgstr ""
+
+#: adminpage.php:10
+msgid "To add a new field use the form"
+msgstr ""
+
+#: adminpage.php:11
+msgid "field: the field type. skype, facebook or anything you want (small letters only)"
+msgstr ""
+
+#: adminpage.php:11
+msgid "Name: The name of the field displayed in theme"
+msgstr ""
+
+#: adminpage.php:12
+msgid "Use the form to allow fields to be used in widget"
+msgstr ""
+
+#: adminpage.php:13
+msgid "See help tab or plugin page for more info"
+msgstr ""
+
+#: adminpage.php:23
+msgid "Fields"
+msgstr ""
+
+#: adminpage.php:23
+msgid "CSS"
+msgstr ""
+
+#: adminpage.php:23
+msgid "Add script"
+msgstr ""
+
+#: adminpage.php:23
+msgid "Help"
+msgstr ""
+
+#: adminpage.php:89
+#: adminpage.php:130
+#: adminpage.php:138
+msgid "Field"
+msgstr ""
+
+#: adminpage.php:89
+msgid "required"
+msgstr ""
+
+#: adminpage.php:98
+#: adminpage.php:131
+#: adminpage.php:139
+msgid "Name"
+msgstr ""
+
+#: adminpage.php:118
+#: adminpage.php:170
+msgid "Bulk actions"
+msgstr ""
+
+#: adminpage.php:119
+#: adminpage.php:171
+msgid "Delete selected"
+msgstr ""
+
+#: adminpage.php:120
+#: adminpage.php:132
+#: adminpage.php:140
+#: adminpage.php:172
+msgid "Display in widget"
+msgstr ""
+
+#: adminpage.php:121
+#: adminpage.php:173
+msgid "Don`t display in widget"
+msgstr ""
+
+#: adminpage.php:157
+msgid "Yes"
+msgstr ""
+
+#: adminpage.php:159
+msgid "No"
+msgstr ""
+
+#: adminpage.php:192
+msgid "Change css:"
+msgstr ""
+
+#: adminpage.php:196
+msgid "Custom css:"
+msgstr ""
+
+#: adminpage.php:199
+msgid "Add your css here"
+msgstr ""
+
+#: adminpage.php:203
+msgid "Overide the css for this plugin. These are the selectors you can use if you haven`t modified the templates files:"
+msgstr ""
+
+#: adminpage.php:204
+msgid "Widget:"
+msgstr ""
+
+#: adminpage.php:206
+msgid "Author:"
+msgstr ""
+
+#: adminpage.php:218
+msgid "Use this css?:"
+msgstr ""
+
+#: adminpage.php:242
+msgid "Add script to footer"
+msgstr ""
+
+#: adminpage.php:246
+msgid "Scripts"
+msgstr ""
+
+#: adminpage.php:253
+msgid "Here you can paste scripts that can be used with userfields."
+msgstr ""
+
+#: adminpage.php:254
+msgid "eg. skype check, facebook scripts and twitter scripts"
+msgstr ""
+
+#: adminpage.php:255
+msgid "You can only save this is you have the right to save html to the database."
+msgstr ""
+
+#: adminpage.php:261
+msgid "Use these scripts?"
+msgstr ""
+
+#: adminpage.php:279
+msgid "help"
+msgstr ""
+
+#: adminpage.php:280
+msgid "There are several ways you can use this plugin. There is theme functions, shortcodes and two widgets you can use. All these options has several arguments for you to use."
+msgstr ""
+
+#: adminpage.php:281
+msgid "Widgets"
+msgstr ""
+
+#: adminpage.php:282
+msgid "The first widget is the simplest to use. Just drag it to a siderbar and fill in the options. Remember to allow the fields in options page first. To change the apperance of the widget copy the file"
+msgstr ""
+
+#: adminpage.php:282
+msgid "to"
+msgstr ""
+
+#: adminpage.php:282
+msgid "and change the layout."
+msgstr ""
+
+#: adminpage.php:284
+msgid "The second widget is a html widget where you can add shortcodes. More on shortcodes below"
+msgstr ""
+
+#: adminpage.php:285
+msgid "Shortcodes"
+msgstr ""
+
+#: adminpage.php:286
+msgid "In post and pages (and in HyperContact html widget) you can use shortcodes to show fields for a user. The are currently three different shortcodes:"
+msgstr ""
+
+#: adminpage.php:287
+msgid "is the user you want to display and field are the field (for field names look under fields tab). You can use it like this "
+msgstr ""
+
+#: adminpage.php:287
+msgid "It will display the skype field for the user "
+msgstr ""
+
+#: adminpage.php:288
+msgid "Displays a field from post/page author. VARNING use only in posts or pages"
+msgstr ""
+
+#: adminpage.php:289
+msgid "Theme functions"
+msgstr ""
+
+#: adminpage.php:290
+msgid "If you know how to edit themes and knows a little php these are the functions for you. You can add these functions to any site. One of these function does use a templatefile. Read more about it below"
+msgstr ""
+
+#: adminpage.php:291
+msgid "Default"
+msgstr ""
+
+#: adminpage.php:301
+msgid "Returns a array with object that contains the user fields"
+msgstr ""
+
+#: adminpage.php:303
+msgid "Default $args is same as above."
+msgstr ""
+
+#: adminpage.php:303
+msgid "Echoes an unordered list"
+msgstr ""
+
+#: adminpage.php:305
+msgid "Displays a single field for a user"
+msgstr ""
+
+#: adminpage.php:305
+msgid "the username of the user you want to display"
+msgstr ""
+
+#: adminpage.php:305
+msgid "the field you want to display."
+msgstr ""
+
+#: adminpage.php:305
+msgid "Echoes field"
+msgstr ""
+
+#: adminpage.php:307
+msgid "Get information about the author."
+msgstr ""
+
+#: adminpage.php:307
+msgid "defaults to 32"
+msgstr ""
+
+#: adminpage.php:308
+msgid "Get a field for author."
+msgstr ""
+
+#: adminpage.php:309
+msgid "Display a field for the author."
+msgstr ""
+
+#: adminpage.php:310
+msgid "Get fieldname for a field"
+msgstr ""
+
+#: adminpage.php:311
+msgid "Display a fieldname for a field"
+msgstr ""
+
+#: adminpage.php:312
+msgid "Display author info. Uses a template file. For more info look below."
+msgstr ""
+
+#: adminpage.php:315
+msgid "Templates and css"
+msgstr ""
+
+#: adminpage.php:316
+msgid "To style and change apperance of the display, use the template files and the css file from this plugin"
+msgstr ""
+
+#: adminpage.php:316
+msgid "Copy the template folder from this plugin folder to"
+msgstr ""
+
+#: adminpage.php:316
+msgid "In that folder you have a template file for author info and widget."
+msgstr ""
+
+#: adminpage.php:316
+msgid "You also has a css file to use for styling."
+msgstr ""
+
+#: adminpage.php:316
+msgid "Note: if you have added css in this options page the css from the file will not be displayed"
+msgstr ""
+
+#: adminpage.php:318
+msgid "If you have any questions go to the plugin page"
+msgstr ""
+
+#: functions.php:31
+msgid "No group or user specified"
+msgstr ""
+
+#: functions.php:71
+msgid "No user info could be found"
+msgstr ""
+
+#: hypercontact.php:28
+msgid "Email"
+msgstr ""
+
+#: hypercontact.php:29
+msgid "Website"
+msgstr ""
+
+#: hypercontact.php:30
+msgid "gravatar"
+msgstr ""
+
+#: hypercontact.php:31
+msgid "Display name"
+msgstr ""
+
+#: hypercontact.php:32
+msgid "Description"
+msgstr ""
+
+#: hypercontact.php:115
+msgid "Settings"
+msgstr ""
+
+#: widget.php:10
+msgid "Widget for HyperContact. Displays selected users in a widget"
+msgstr ""
+
+#: widget.php:43
+msgid "Title"
+msgstr ""
+
+#: widget.php:43
+msgid "The widget title"
+msgstr ""
+
+#: widget.php:55
+msgid "Group"
+msgstr ""
+
+#: widget.php:55
+msgid "The desired listed group"
+msgstr ""
+
+#: widget.php:71
+msgid "Single"
+msgstr ""
+
+#: widget.php:71
+msgid "Only display one user"
+msgstr ""
+
+#: widget.php:83
+msgid "Username"
+msgstr ""
+
+#: widget.php:83
+msgid "Choose user"
+msgstr ""
+
+#: widget.php:95
+msgid "Gravatar size"
+msgstr ""
+
+#: widget.php:95
+msgid "The size for the Gravatar"
+msgstr ""
+
+#: widget.php:149
+msgid "Textwidget for HyperContact. You can use html and shortcodes"
+msgstr ""
+
+#: widget.php:181
+msgid "Title:"
+msgstr ""
+
+#: widget.php:186
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: widget.php:188
+msgid "These are the shortcodes you can use:"
+msgstr ""
+
+#: widget.php:190
+msgid "user and field are required"
+msgstr ""
+
+#: widget.php:192
+#: widget.php:194
+msgid "field are required"
+msgstr ""
+
