@@ -1,0 +1,44 @@
+/*
+	This css can be overwritten. Copy this file to
+	"your_theme_folder/plugins/hypercontact/style/hc_style.css"
+*/
+
+/*
+	Widget
+*/
+ul.hc_user_list{
+	list-style:none;
+	margin-bottom:1em;
+}
+
+/*
+	Author
+*/
+div.hc-author-box{
+	border:0.5em solid #eee;
+	width:100%;
+	padding:1em;
+}
+
+h3.hc-admin-name{
+	font-size:1.5em;
+	margin-bottom:1em;
+}
+
+div.hc-author-image img{
+	margin:0 1em 1em 0;
+	float:left;
+}
+
+div.hc-author-info{
+	
+}
+
+div.hc-author-description{
+	margin-bottom:1em;
+}
+
+ul.hc-author-info-list{
+	clear:both;
+	list-style:none;
+}
