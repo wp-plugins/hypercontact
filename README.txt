@@ -3,7 +3,7 @@ Contributors: ferenyl
 Tags: user fields, custom fields, user info, contactinfo
 Requires at least: 3.1
 Tested up to: 3.2.1
-Stable Tag: 1.4
+Stable Tag: 1.4.1
 
 Add and display more userfields for your users. Great for contact widget or page.
 
