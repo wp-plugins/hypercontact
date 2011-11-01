@@ -4,7 +4,7 @@
 	 *	Plugin URI: 
 	 *	Description: This plugin creates a widget that display users contact forms
 	 *	Author: Johan Ahlbäck @ www.hypernode.se
-	 *	Version: 0.8
+	 *	Version: 1.4.1
 	 *	Author URI: http://www.hypernode.se/
 	*/
 ?>
