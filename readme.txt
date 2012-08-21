@@ -1,9 +1,9 @@
 === HyperContact ===
-Contributors: ferenyl
+Contributors: ferenyl, hypernode
 Tags: user fields, custom fields, user info, contactinfo
 Requires at least: 3.1
-Tested up to: 3.2.1
-Stable Tag: 1.4.2
+Tested up to: 3.4.1
+Stable Tag: 1.4.3
 
 Add and display more userfields for your users. Great for contact widget or page.
 
@@ -61,6 +61,9 @@ Be sure to activate it on the settingspage
 7. You can find the settingspage under users
 
 == Changelog ==
+
+= 1.4.3 =
+* Added hypernode as author
 
 = 1.4 =
 * fixed tags
