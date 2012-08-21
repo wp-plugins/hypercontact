@@ -4,7 +4,7 @@
 	 *	Plugin URI: http://wordpress.org/extend/plugins/hypercontact/
 	 *	Description: This plugin creates a widget that display users contact forms
 	 *	Author: Johan Ahlbäck @ www.hypernode.se
-	 *	Version: 1.4.2
+	 *	Version: 1.4.3
 	 *	Author URI: http://www.hypernode.se/
 	*/
 ?>
